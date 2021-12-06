@@ -5,4 +5,6 @@ for x in range(2, 100000000):
     z = round((yy) ** 0.5)
     if z*z == yy:
         print(x, z)
-print(22)
+print(2332)
+
+
